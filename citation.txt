@@ -1,0 +1,6 @@
+@article{REPO257,
+    author = "Yang, Liang and Wu, Xi-Zhu and Jiang, Yuan and Zhou, Zhi-Hua",
+    journal = "arXiv preprint arXiv:1911.06557",
+    title = "{Multi-Label Learning with Deep Forest}",
+    year = "2019"
+}
